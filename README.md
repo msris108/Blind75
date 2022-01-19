@@ -8,9 +8,9 @@ Set of Problems with solutions for Blind 75 problems in python
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [part-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -124,6 +124,12 @@ Set of Problems with solutions for Blind 75 problems in python
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+---
+
+## Extras
+
+- [x] [Trap Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/) - DP
 
 ## Important Link:
 [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
