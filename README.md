@@ -79,10 +79,10 @@ Set of Problems with solutions for Blind 75 problems in python
 
 ## Matrix
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [x] [Word Search](https://leetcode.com/problems/word-search/)
 
 ---
 
@@ -115,7 +115,7 @@ Set of Problems with solutions for Blind 75 problems in python
 - [x] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [x] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [x] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
 ---
 
