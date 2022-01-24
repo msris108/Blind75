@@ -77,7 +77,7 @@ Set of Problems with solutions for Blind 75 problems in python
 
 ---
 
-## Matrix
+## Matrices
 
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -121,15 +121,11 @@ Set of Problems with solutions for Blind 75 problems in python
 
 ## Heap
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 ---
 
 ## Extras
 
 - [x] [Trap Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/) - DP
-
-## Important Link:
-[14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
